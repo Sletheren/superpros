@@ -1,0 +1,479 @@
+{
+  "NAVBAR": {
+    "MENU_ITEMS": [
+      {
+        "label": "Tokenomics",
+        "path": "#tokenomics",
+        "offset": "0"
+      },
+      {
+        "label": "Roadmap",
+        "path": "#roadmap",
+        "offset": "-10"
+      },
+      {
+        "label": "Community",
+        "path": "#community",
+        "offset": "-10"
+      },
+      {
+        "label": "Team",
+        "path": "#team",
+        "offset": "-10"
+      },
+      {
+        "label": "Whitepaper",
+        "path": "https://whitepaper.bacelus.com/",
+        "offset": "380"
+      }
+    ],
+    "ACTION_BUTTON": {
+      "text": "Enter Pre-sale",
+      "path": "https://pancakeswap.finance/"
+    }
+  },
+  "BANNER_SLIDER": [
+    { "description": "Allowing Certification Issuers to provide unique and untampered-with certifications fast" },
+    { "description": "Allowing Certification Holders to show/proof their certifications easily and securly" },
+    { "description": "Making it easy to integrate documents with the upcoming Web3" },
+    { "description": "Stopping document forgery and ownership manuipulation using the blockchain technology"}
+  ],
+  "BANNER": {
+		"title": "Decentralized Certifications and document anti-forgery",
+		"description": "A decentralized alternative to certificate verification and notarization which helps certificate Verifiers check the authenticity of certificates or documents issued by a given Issuer to the Holder of the given document.",
+		"primaryButton": {
+      "text": "Invest now",
+      "target": "https://pancakeswap.finance/"
+    },
+		"secondaryButton": {
+      "text": "Check Roadmap",
+      "target": "#roadmap"
+    }
+	},
+  "HOW_IT_WORKS": {
+    "subTitle": "How it works",
+    "title": "Compact solution built on the blockchain",
+    "description": "Revolutionary way into transforming ceritications and diplomas into unique NFTs",
+    "button": {
+      "text": "Read the Whitepaper",
+      "target": "#whitepaper"
+    },
+    "bullets": [
+      {
+        "title": "Create them",
+        "description": "An easy to use UI to create certifications that will be uniquely identified and unchanged",
+        "image": "../../assets/image/crypto/tf1.svg"
+      },
+      {
+        "title": "Mint them",
+        "description": "Each certificaiton created will be minted on the blockchain and can only verified by the creator",
+        "image": "../../assets/image/crypto/tf2.svg"
+      },
+      {
+        "title": "Issue & Show",
+        "description": "The certification will be issued to an address, where its owner can see the certification as a form of an NFT",
+        "image": "../../assets/image/crypto/tf3.svg"
+      },
+      {
+        "title": "Use & Verify",
+        "description": "When you have a cerificate on your wallet, you can showcase securly and in realtime",
+        "image": "../../assets/image/crypto/tf4.svg"
+      }
+    ]
+  },
+  "PRESALE_COUNTDOWN": {
+    "start": {
+      "title": "Pre-sale starting soon",
+      "description": "Limited spots, grab a seat!",
+      "button": {
+        "text": "Get updates",
+        "target": "#community"
+      }
+    },
+    "during": {
+      "title": "Pre-sale closing soon",
+      "description": "Limited spots, grab a seat!",
+      "button": {
+        "text": "Enter Pre-sale NOW",
+        "target": "/presale"
+      }
+    },
+    "end": {
+      "title": "Pre-sale closed!",
+      "description": "Our previous sale has been closed, was a success! follow us to get updates on our next pre-sale and upcoming events",
+      "button": {
+        "text": "Get updates",
+        "target": "#community"
+      }
+    }
+    
+  },
+  "TOKENOMICS": {
+    "title": "Tokenomics",
+    "description": "Our solid economic model, that is transparent and straight-forward",
+    "items": [
+      {"number": "6", "title": "Rewards", "description": "percentage distributed to all holders"},
+      {"number": "2", "title": "Marketing", "description": "collected for marketing to spread the word", "link": {"text": "Marketing address", "target": "https://pancakeswap.finance/"}},
+      {"number": "2", "title": "Team", "description": "to keep the project going by covering team expenses"},
+      {"number": "0", "title": "Transfer", "description": "transfers from wallet to wallet are not subject to any fees or taxes"},
+      {"number": "50", "title": "Distribution", "description": "distributed back to our investors in BNB through staking."},
+      {"number": "10", "title": "Distribution", "description": "the revenue from our DAPPs is added as locked liquidity"}
+    ]
+  },
+  "ROADMAP": {
+    "title": "Roadmap",
+    "description": "All the steps we need to realize in order to make our solution go to the next level",
+    "phases": [
+      [
+        { "text": "Create a website", "done": true },
+        { "text": "Deploy token contract", "done": false },
+        { "text": "Deploy distribution contract", "done": false },
+        { "text": "Deploy private sale contract", "done": false },
+        { "text": "White Paper release", "done": false },
+        { "text": "Conduct a successful private sale", "done": false }
+      ],
+      [
+        { "text": "Run a smart contract audit", "done": false },
+        { "text": "Run marketing campaigns", "done": false },
+        { "text": "Conduct a successful pre-sale", "done": false },
+        { "text": "Lunching on pancake swap", "done": false },
+        { "text": "List on CoinMarketCap", "done": false },
+        { "text": "List on CoinGecko", "done": false }
+      ],
+      [
+        { "text": "Expand the team", "done": false },
+        { "text": "Release Beta version", "done": false },
+        { "text": "Run marketing campaigns", "done": false },
+        { "text": "Review feedback and refine the solution", "done": false },
+        { "text": "Release v1", "done": false },
+        { "text": "Start partnerships", "done": false }
+      ]
+    ]
+  },
+
+  "COMMUNITY": {
+    "title": "Community",
+    "description": "Stay in the loop",
+    "subTitle": "A community all about trust & success",
+    "subDescription": "Join our community for the latest news, updates and announcements about our services, products and many more!",
+    "links": [
+      {"text": "Telegram", "target": "https://telegram.com/bacelus", "imageUrl": "../../assets/icons/telegram.svg"},
+      {"text": "Twitter", "target": "https://twitter.com/bacelus", "imageUrl": "../../assets/icons/twitter.svg"},
+      {"text": "Discord", "target": "https://discord.com/bacelus", "imageUrl": "../../assets/icons/discord.svg"},
+      {"text": "Github", "target": "https://github.com/bacelus", "imageUrl": "../../assets/icons/github.svg"}
+    ]
+  },
+  
+  "FAQ": [
+    {
+      "id": 1,
+      "title": "How to contact with Customer Service?",
+      "description": "Our Customer Experience Team is available 7 days a week and we offer 2 ways to get in contact.Email and Chat . We try to reply quickly, so you need not to wait too long for a response!. ",
+      "expend": true
+    },
+    {
+      "id": 2,
+      "title": "App installation failed, how to update system information?",
+      "description": "Please read the documentation carefully . We also have some online  video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum . "
+    },
+    {
+      "id": 3,
+      "title": "Website reponse taking time, how to improve?",
+      "description": "At first, Please check your internet connection . We also have some online  video tutorials regarding this issue . If the problem remains, Please Open a ticket in the support forum ."
+    },
+    {
+      "id": 4,
+      "title": "New update fixed all bug and issues?",
+      "description": "We are giving the update of this theme continuously . You will receive an email Notification when we push an update. Always try to be updated with us ."
+    },
+    {
+      "id": 4,
+      "title": "New update fixed all bug and issues?",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    }
+  ],
+
+  "CALL_TO_ACTION": {
+    "title": "Wanna know more about the project",
+    "description": "Check our whitepaper to understand the solution we are providing and how it works.",
+    "link": {
+      "text": "Whitepaper",
+      "target": "/whitepaper"
+    }
+  },
+
+  "FOOTER": {
+    "links": [
+      { "text": "Whitepaper", "target": "/whitepaper" },
+      { "text": "roadmap", "target": "#roadmap" },
+      { "text": "Tokenomics", "target": "#tokenomics" },
+      { "text": "team", "target": "#team" }
+    ]
+  },
+
+  "WHY_TRUST_US": {
+    "title": "",
+    "description": "",
+    "items": [
+      { "title": "Locked liquidity", "description": "", "icon": "" },
+      { "title": "Token distribution", "description": "", "icon": "" },
+      { "title": "Audits", "description": "", "icon": "" },
+      { "title": "Whitepaper", "description": "", "icon": "" },
+      { "title": "Professionals", "description": "", "icon": "" }
+    ]
+  },
+
+  "TEAM": {
+    "title": "Meet the Team",
+    "description": "Pationate, Ambitious and brilliant minds behind the idea of Bacelus, a multi-national team that has one goal, to create a positive impact in the world of with the blockchain technology",
+    "items": [
+      { "name": "", "description": "", "target": "", "image": "" }
+    ]
+  },
+
+  "AUDITS": {
+    "title": "",
+    "items": [
+      { "target": "", "image": "" }
+    ]
+  },
+
+  "AS_SEEN_IN": {
+    "title": "",
+    "items": [
+      { "target": "", "image": "" }
+    ]
+  },
+
+
+
+
+  "TESTIMONIALS": [
+    {
+      "review": "Best working experience  with this amazing team & in future, we want to work together",
+      "name": "Jon Doe",
+      "designation": "CEO of Dell Co.",
+      "avatar": "../../assets/image/crypto/author-4.jpg"
+    },
+    {
+      "review": "Impressed with master class support of the team and really look forward for the future.",
+      "name": "Jon Doe",
+      "designation": "Co Founder of IBM",
+      "avatar": "../../assets/image/crypto/author-2.jpg"
+    },
+    {
+      "review": "I have bought more than 10 themes on ThemeForest, and this is the first one I review.",
+      "name": "Jeny Doe",
+      "designation": "Manager of Hp co.",
+      "avatar": "../../assets/image/crypto/author-3.jpg"
+    },
+    {
+      "review": "Impressed with master class support of the team and really look forward for the future.",
+      "name": "Jon Doe",
+      "designation": "Manager of Hp co.",
+      "avatar": "../../assets/image/crypto/author-1.jpg"
+    }
+  ],
+  "TRANSACTIONS_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/tf1.svg",
+      "title": "Create Payment Address",
+      "des": "Provide your payout wallet address and callback URL to PayBear API."
+    },
+    {
+      "image": "../../assets/image/crypto/tf2.svg",
+      "title": "Ask for Payment",
+      "des": "Show your customer the wallet address as well as the payment amount."
+    },
+    {
+      "image": "../../assets/image/crypto/tf3.svg",
+      "title": "Get Paid",
+      "des": "Payment is sent to the payout wallet immediately."
+    },
+    {
+      "image": "../../assets/image/crypto/tf4.svg",
+      "title": "Get Payment Notification.",
+      "des": "Callbacks are sent to the URL you specified. You can process customer order"
+    }
+  ],
+  "PROOFS_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/proof1.svg",
+      "title": "Instant trading",
+      "des": "Never miss a price swing."
+    },
+    {
+      "image": "../../assets/image/crypto/proof2.svg",
+      "title": "No hidden fees",
+      "des": "know our fees upfront."
+    },
+    {
+      "image": "../../assets/image/crypto/proof3.svg",
+      "title": "Secure storage",
+      "des": "Sleep with peace of mind."
+    },
+    {
+      "image": "../../assets/image/crypto/proof4.svg",
+      "title": "Systematic trading",
+      "des": "History intraday market."
+    },
+    {
+      "image": "../../assets/image/crypto/proof5.svg",
+      "title": "Network Effect",
+      "des": "Casinos contribute 1%."
+    },
+    {
+      "image": "../../assets/image/crypto/proof6.svg",
+      "title": "Bigger Rewards",
+      "des": "Players are incentivized."
+    }
+  ],
+  "SCALABLE_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Daily Jackpot",
+      "des": "35000 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Weekly Jackpot",
+      "des": "250000 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Monthly Jackpot",
+      "des": "4999697 CLV"
+    },
+    {
+      "image": "../../assets/image/crypto/jackpot.svg",
+      "title": "Yearly Jackpot",
+      "des": "300245785000 CLV"
+    }
+  ],
+  "BETA_FEATURE": [
+    {
+      "image": "../../assets/image/crypto/beta-1.svg",
+      "title": "SEPA Transfers",
+      "des": "Deposit & Withdraw money."
+    },
+    {
+      "image": "../../assets/image/crypto/beta-2.svg",
+      "title": "24/7 Support",
+      "des": "Always here for you."
+    },
+    {
+      "image": "../../assets/image/crypto/beta-3.svg",
+      "title": "Secure",
+      "des": "Your money is safe."
+    }
+  ],
+  "menuWidget": [
+    {
+      "id": 1,
+      "title": "About Us",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Support Center"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Customer Support"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "About Us"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Copyright"
+        },
+        {
+          "id": 5,
+          "url": "#",
+          "text": "Popular Campaign"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Our Information",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Return Policy"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Privacy Policy"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "Terms & Conditions"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Site Map"
+        },
+        {
+          "id": 5,
+          "url": "#",
+          "text": "Store Hours"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "My Account",
+      "menuItems": [
+        {
+          "id": 1,
+          "url": "#",
+          "text": "Press inquiries"
+        },
+        {
+          "id": 2,
+          "url": "#",
+          "text": "Social media directories"
+        },
+        {
+          "id": 3,
+          "url": "#",
+          "text": "Images & B-roll"
+        },
+        {
+          "id": 4,
+          "url": "#",
+          "text": "Permissions"
+        },
+        {
+          "id": 5,
+          "url": "#",
+          "text": "Speaker requests"
+        }
+      ]
+    }
+  ],
+  "Language_NAMES": [
+    {
+      "label": "English",
+      "value": "eng"
+    },
+    {
+      "label": "Chinese",
+      "value": "chinese"
+    },
+    {
+      "label": "Indian",
+      "value": "indian"
+    }
+  ]
+}
